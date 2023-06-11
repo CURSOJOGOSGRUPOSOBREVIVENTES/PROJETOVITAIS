@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b636dd7c605c114087658459cd89adf, type: 3}
+  m_Name: Sangue
+  m_EditorClassIdentifier: 
+  actor: {fileID: 9085979913668713650, guid: 76a1046cc4a960f49befda28e45d550d, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 408a98e0ed2acd9468534a4638bf2035, type: 3}
+    sentence:
+      portuguese: Meu deus!
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 408a98e0ed2acd9468534a4638bf2035, type: 3}
+    sentence:
+      portuguese: "Isso \xE9 sangue!?"
+      english: 
+      spanish: 

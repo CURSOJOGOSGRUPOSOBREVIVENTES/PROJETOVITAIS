@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b636dd7c605c114087658459cd89adf, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 5862326363930028865, guid: 0f0d07bab69ba9049a57fdb31bda0257, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Roger
+    profile: {fileID: 21300000, guid: cd01506122a0b15478fad1c0b7121be5, type: 3}
+    sentence:
+      portuguese: "Ol\xE1 Argus!"
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 7c8ac8265aa553b489975fa270a145bf, type: 3}
+    sentence:
+      portuguese: "Oi Roger! Voc\xEA viu meu pai?"
+      english: 
+      spanish: 
+  - actorName: Roger
+    profile: {fileID: 21300000, guid: cd01506122a0b15478fad1c0b7121be5, type: 3}
+    sentence:
+      portuguese: "Seu pai est\xE1 no laborat\xF3rio com a Alice."
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 7c8ac8265aa553b489975fa270a145bf, type: 3}
+    sentence:
+      portuguese: Obrigado!
+      english: 
+      spanish: 
+  - actorName: Roger
+    profile: {fileID: 21300000, guid: 88bc8ea6eb6c0074dafd8c5027a3bf19, type: 3}
+    sentence:
+      portuguese: Argus!
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 12198ee171041aa4ebc98e76c8d85f20, type: 3}
+    sentence:
+      portuguese: '?'
+      english: 
+      spanish: 
+  - actorName: Roger
+    profile: {fileID: 21300000, guid: 88bc8ea6eb6c0074dafd8c5027a3bf19, type: 3}
+    sentence:
+      portuguese: "Precisa ligar o gerador no laborat\xF3rio, est\xE1 ficando escuro."
+      english: 
+      spanish: 
+  - actorName: Roger
+    profile: {fileID: 21300000, guid: cd01506122a0b15478fad1c0b7121be5, type: 3}
+    sentence:
+      portuguese: Poderia avisar seu pai, por favor?
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 7c8ac8265aa553b489975fa270a145bf, type: 3}
+    sentence:
+      portuguese: Claro!
+      english: 
+      spanish: 
+  - actorName: Roger
+    profile: {fileID: 21300000, guid: cd01506122a0b15478fad1c0b7121be5, type: 3}
+    sentence:
+      portuguese: Obrigado! Fico te devendo mais uma! hehe
+      english: 
+      spanish: 

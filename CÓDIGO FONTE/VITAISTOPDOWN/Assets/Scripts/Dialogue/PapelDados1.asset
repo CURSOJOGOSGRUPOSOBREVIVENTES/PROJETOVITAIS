@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b636dd7c605c114087658459cd89adf, type: 3}
+  m_Name: PapelDados1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 4813952952406253402, guid: 72cad777856bd2f4ba1b86a32e898a2c, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Ficha Argus
+    profile: {fileID: 21300000, guid: 42e513f662b6e384eaae603bd9e472bd, type: 3}
+    sentence:
+      portuguese: 'Nome: Argus Idade: 18 anos'
+      english: 
+      spanish: 
+  - actorName: Ficha Argus
+    profile: {fileID: 21300000, guid: 42e513f662b6e384eaae603bd9e472bd, type: 3}
+    sentence:
+      portuguese: 'Sangue: A+'
+      english: 
+      spanish: 
+  - actorName: Ficha Argus
+    profile: {fileID: 21300000, guid: 42e513f662b6e384eaae603bd9e472bd, type: 3}
+    sentence:
+      portuguese: "Observa\xE7\xF5es: Imune ao Virus V1"
+      english: 
+      spanish: 
+  - actorName: Ficha Argus
+    profile: {fileID: 21300000, guid: 42e513f662b6e384eaae603bd9e472bd, type: 3}
+    sentence:
+      portuguese: "Testes: N\xE3o reagente a outros organismos"
+      english: 
+      spanish: 
+  - actorName: Ficha Roger
+    profile: {fileID: 21300000, guid: 42e513f662b6e384eaae603bd9e472bd, type: 3}
+    sentence:
+      portuguese: 'Nome: Roger Idade: 25 anos'
+      english: 
+      spanish: 
+  - actorName: Ficha Roger
+    profile: {fileID: 21300000, guid: 42e513f662b6e384eaae603bd9e472bd, type: 3}
+    sentence:
+      portuguese: 'Sangue: B+'
+      english: 
+      spanish: 
+  - actorName: Ficha Roger
+    profile: {fileID: 21300000, guid: 42e513f662b6e384eaae603bd9e472bd, type: 3}
+    sentence:
+      portuguese: "Observa\xE7\xF5es: Imune ao Virus V1"
+      english: 
+      spanish: 
+  - actorName: Ficha Roger
+    profile: {fileID: 21300000, guid: 42e513f662b6e384eaae603bd9e472bd, type: 3}
+    sentence:
+      portuguese: "Testes: N\xE3o reagente a outros organismos"
+      english: 
+      spanish: 

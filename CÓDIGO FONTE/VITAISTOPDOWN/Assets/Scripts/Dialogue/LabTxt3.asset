@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b636dd7c605c114087658459cd89adf, type: 3}
+  m_Name: LabTxt3
+  m_EditorClassIdentifier: 
+  actor: {fileID: 5346595922855595569, guid: ad1df71fe333af249a263be6257c4c21, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: "Anota\xE7\xF5es Norabel"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: Consegui abrir o portal novamente.
+      english: 
+      spanish: 
+  - actorName: "Anota\xE7\xF5es Norabel"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: "Sei que \xE9 arriscado, mas preciso fazer isso!"
+      english: 
+      spanish: 
+  - actorName: "Anota\xE7\xF5es Norabel"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: "N\xE3o posso fazer testes invasivos em um dos nossos."
+      english: 
+      spanish: 
+  - actorName: "Anota\xE7\xF5es Norabel"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: "Alice mostrou resultados positivos a vacina, mas n\xE3o \xE9 o
+        bastante."
+      english: 
+      spanish: 
+  - actorName: "Anota\xE7\xF5es Norabel"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: Preciso procurar por mais estudos do outro lado.
+      english: 
+      spanish: 

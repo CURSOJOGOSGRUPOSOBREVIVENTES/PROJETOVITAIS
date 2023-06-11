@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b636dd7c605c114087658459cd89adf, type: 3}
+  m_Name: DiarioArgus_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 9107152871930251014, guid: 9beb03275810e1e479086a929496bd02, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: "Di\xE1rio Argus 25/05/2020"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: "\"Ainda tudo \xE9 assustador, mas ainda continuamos na luta\""
+      english: 
+      spanish: 
+  - actorName: "Di\xE1rio Argus 25/05/2020"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: "\"Meu pai anda estranho, mas acredito que seja por conta de toda
+        press\xE3o do que aconteceu\""
+      english: 
+      spanish: 
+  - actorName: "Di\xE1rio Argus 26/05/2020"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: "\"Meu pai passa horas dentro do laborat\xF3rio, sinto que preciso
+        ajudar ele\""
+      english: 
+      spanish: 
+  - actorName: "Di\xE1rio Argus 26/05/2020"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: "\"Daqui 2 dias fa\xE7o 18 anos, n\xE3o sei se isso \xE9 motivo
+        pra comemora\xE7\xF5es\""
+      english: 
+      spanish: 

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b636dd7c605c114087658459cd89adf, type: 3}
+  m_Name: DiarioAlice_
+  m_EditorClassIdentifier: 
+  actor: {fileID: 8807671800418186832, guid: 36a420bdcc0507948903151fa4a36524, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: "Di\xE1rio Alice 25/05/2020"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: "\"Norabel \xE9 um pai pra todos n\xF3s\""
+      english: 
+      spanish: 
+  - actorName: "Di\xE1rio Alice 25/05/2020"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: "\"Quanto mais a gente se aprofunda nos testes, parece que o resultado
+        nunca chega. Isso \xE9 frustrante!\""
+      english: 
+      spanish: 
+  - actorName: "Di\xE1rio Alice 26/05/2020"
+    profile: {fileID: 21300000, guid: ea0fb67a91adeb84288289d51f4cb87c, type: 3}
+    sentence:
+      portuguese: "\"Estou exausta, cuidar da zona de quarentena \xE9 cansativo!
+        Mas eles s\xE3o dependentes de n\xF3s!\""
+      english: 
+      spanish: 

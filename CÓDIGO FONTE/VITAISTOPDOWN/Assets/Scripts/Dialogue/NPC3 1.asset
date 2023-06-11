@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b636dd7c605c114087658459cd89adf, type: 3}
+  m_Name: NPC3 1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 1832666249949404443, guid: eccc41af7d0a4e949b7a92eb0a74b80d, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: bb2cb8976c54d1e4c892ca6ab1d6f19d, type: 3}
+    sentence:
+      portuguese: Oi Argus!
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: 1d9a0fff33e12994b865ecaa5b521fa6, type: 3}
+    sentence:
+      portuguese: "Que surpresa boa ver voc\xEA aqui!"
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 7c8ac8265aa553b489975fa270a145bf, type: 3}
+    sentence:
+      portuguese: Oii Alice!
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: f17626a9d0bedce42a04ee95b724b665, type: 3}
+    sentence:
+      portuguese: "N\xE3o gosto de descer aqui."
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 12198ee171041aa4ebc98e76c8d85f20, type: 3}
+    sentence:
+      portuguese: Ver essas pessoas presas me da agonia!
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: f19e1239f4fd77f4bbc6f27d437730be, type: 3}
+    sentence:
+      portuguese: Entendo...
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: bb2cb8976c54d1e4c892ca6ab1d6f19d, type: 3}
+    sentence:
+      portuguese: "Mas \xE9 para o bem delas!"
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: bb2cb8976c54d1e4c892ca6ab1d6f19d, type: 3}
+    sentence:
+      portuguese: "Aqui est\xE3o protegidas e longe do v\xEDrus!"
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 12198ee171041aa4ebc98e76c8d85f20, type: 3}
+    sentence:
+      portuguese: Eu sei!
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: f17626a9d0bedce42a04ee95b724b665, type: 3}
+    sentence:
+      portuguese: Espero que um dia meu pai consiga resolver tudo isso!
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: 1d9a0fff33e12994b865ecaa5b521fa6, type: 3}
+    sentence:
+      portuguese: 'Trabalhamos todos os dias pra isso! '
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 12198ee171041aa4ebc98e76c8d85f20, type: 3}
+    sentence:
+      portuguese: ...
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 7c8ac8265aa553b489975fa270a145bf, type: 3}
+    sentence:
+      portuguese: Falando em trabalhar, meu pai te contou a novidade?
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: bb2cb8976c54d1e4c892ca6ab1d6f19d, type: 3}
+    sentence:
+      portuguese: "N\xE3o!"
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 7c8ac8265aa553b489975fa270a145bf, type: 3}
+    sentence:
+      portuguese: "Amanh\xE3 come\xE7o a trabalhar com voc\xEAs aqui no laborat\xF3rio!"
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: 1d9a0fff33e12994b865ecaa5b521fa6, type: 3}
+    sentence:
+      portuguese: "S\xE9rio!? Que not\xEDcia boa!"
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 7c8ac8265aa553b489975fa270a145bf, type: 3}
+    sentence:
+      portuguese: "Sim! E isso quer dizer que voc\xEA vai me ver mais vezes por aqui!
+        hehe"
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: 1d9a0fff33e12994b865ecaa5b521fa6, type: 3}
+    sentence:
+      portuguese: "Isso \xE9 muito bom Argus! "
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: bb2cb8976c54d1e4c892ca6ab1d6f19d, type: 3}
+    sentence:
+      portuguese: Quer dizer...
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: 1d9a0fff33e12994b865ecaa5b521fa6, type: 3}
+    sentence:
+      portuguese: "\xC9 bom pelo fato de ter mais ajuda no laborat\xF3rio!"
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 12198ee171041aa4ebc98e76c8d85f20, type: 3}
+    sentence:
+      portuguese: "Sim! S\xF3 n\xE3o quero sair t\xE3o tarde daqui como voc\xEAs!"
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: bb2cb8976c54d1e4c892ca6ab1d6f19d, type: 3}
+    sentence:
+      portuguese: Faz parte!
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: bb2cb8976c54d1e4c892ca6ab1d6f19d, type: 3}
+    sentence:
+      portuguese: "Bom, ent\xE3o te vejo amanh\xE3!"
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 7c8ac8265aa553b489975fa270a145bf, type: 3}
+    sentence:
+      portuguese: "Sim! E j\xE1 estou indo dormir!"
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 7c8ac8265aa553b489975fa270a145bf, type: 3}
+    sentence:
+      portuguese: "At\xE9 amanh\xE3!"
+      english: 
+      spanish: 
+  - actorName: Alice
+    profile: {fileID: 21300000, guid: 1d9a0fff33e12994b865ecaa5b521fa6, type: 3}
+    sentence:
+      portuguese: "At\xE9!"
+      english: 
+      spanish: 

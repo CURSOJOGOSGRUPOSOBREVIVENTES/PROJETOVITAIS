@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b636dd7c605c114087658459cd89adf, type: 3}
+  m_Name: HumanTxt
+  m_EditorClassIdentifier: 
+  actor: {fileID: 1213607515192175976, guid: 6a0984890a53a7c419a6adcbf0d63b5d, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 408a98e0ed2acd9468534a4638bf2035, type: 3}
+    sentence:
+      portuguese: '!?'
+      english: 
+      spanish: 
+  - actorName: Argus
+    profile: {fileID: 21300000, guid: 408a98e0ed2acd9468534a4638bf2035, type: 3}
+    sentence:
+      portuguese: "O que s\xE3o voc\xEAs!?"
+      english: 
+      spanish: 
